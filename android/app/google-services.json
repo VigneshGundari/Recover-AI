@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "10158927928",
+    "project_id": "recover-ai-49f0d",
+    "storage_bucket": "recover-ai-49f0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10158927928:android:e134efa42878069efd36cd",
+        "android_client_info": {
+          "package_name": "com.quantumcrafters.recover_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs2DAdxjzTovb3QLxzOcnv3s42C33LsQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

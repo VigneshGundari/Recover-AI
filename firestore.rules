@@ -1,0 +1,10 @@
+rules_version = '2';
+
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // NUCLEAR RULE: Allow ANYONE to read/write for 5 minutes of testing
+    match /{document=**} {
+      allow read, write: if true;
+    }
+  }
+}
